@@ -2,17 +2,13 @@ c088 ExpertPlus Standard - Clarence
 72b9 ExpertPlus Standard - I Dont Care
 1ccd ExpertPlus Standard - I LOVE FIDGET SPINNERS
 5a63 ExpertPlus Standard - Jelly Donuts
-10fb5 ExpertPlus Standard - Guardian Of The Former Seas
 930c ExpertPlus Standard - artcore JINJA
-6a73 ExpertPlus Standard - Boogie Woogie Splatter Show (DJ Myosuke Remix)
 10abb Hard Standard - Crescent Moon
 11d26 ExpertPlus Standard - ENDYMION
 e5d9 ExpertPlus Standard - GIGA VIOLATE
 1b239 ExpertPlust Standard - Possessed By The Blood Moon
 ac79 ExpertPlus Standard - Kemumaki underground
-cd31 ExpertPlus Standard - Sakura Storm Long ver.
 192b7 ExpertPlus Standard - FALL 
-eda8 Hard Standard - Cynic
 1d0a5 ExpertPlus Standard - SHAKIRA! ft. EGOVERT (Park Remix)
 1a9dd ExpertPlus Standard - AREA52
 1c449 ExpertPlus Standard - Reverenced Flower
@@ -27,7 +23,6 @@ b175 ExpertPlus Standard - Dream Flashback
 73af ExpertPlus Standard - Altale
 aa23 ExpertPlus Standard - Scarlet Police on Ghetto Patrol
 1e921 ExpertPlus Standard - Fate Is Sealed
-6298 ExpertPlus Standard - Satori De Pon!
 25737 ExpertPlus Standard - Tool-Assisted Speedcore
 11d6c ExpertPlus Standard - Sweetest Paranoia
 5bd8 ExpertPlus Standard - AA BlackY Mix
