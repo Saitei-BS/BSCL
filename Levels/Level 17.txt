@@ -23,3 +23,6 @@ e0ce ExpertPlus Standard - Rainy
 1ee10 ExpertPlus Standard - multi_arm
 1f9bc ExpertPlus Standard - Xronial Xero
 262f1 Expert Standard - Can you hear me?
+11f0a ExpertPlus Standard - northern_limit 
+b3ee ExpertPlus Standard - Ultimate Burst Stream Challenge
+2abb1 ExpertPlus Standard - Speedcore Horse
