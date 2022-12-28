@@ -21,3 +21,9 @@ a281 ExpertPlus Standard - Sakurairo Time Capsule
 26387 ExpertPlus Standard - CRUSH
 15e26 ExpertPlus Standard - 360-nnitus
 2b7fe ExpertPlus Standard - NS360
+13990 ExpertPlus Standard - Dynamite v3
+13bc1 ExpertPlus Standard - Dynamite v4
+14da0 ExpertPlus Standard - House of Horror
+21f91 ExpertPlus Standard - Fisher Price
+19e99 ExpertPlus Standard - Frost Moon
+1f9ab ExpertPlus Standard - Goodbye Moonmen
