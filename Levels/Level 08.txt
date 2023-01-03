@@ -29,3 +29,4 @@ e077 ExpertPlus Standard - Rainbow Freeze
 190cf ExpertPlus Standard - Starmaker
 1ffa0 ExpertPlus Standard - LOSER!
 1f8c4 ExpertPlus Standard - BLEGH!
+12c81 Normal Standard - Shinsekai
