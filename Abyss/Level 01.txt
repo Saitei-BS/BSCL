@@ -1,9 +1,1 @@
-7388 ExpertPlus - The Sun, The Moon, The Star
-ff9 ExpertPlus Standard - Smooth Criminal
-bbf9 ExpertPlus Standard - Kill me Sweets
-6022 ExpertPlus Standard - Stal 
-10fb5 ExpertPlus Standard - Guardian Of The Former Seas
-eda8 Hard Standard - Cynic
-5b33 ExpertPlus Standard - BELOBOG
-bfd1 ExperPlus Standard - Credits
-73af ExpertPlus Standard - Altale
+
