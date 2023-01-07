@@ -8,3 +8,4 @@ bddb ExpertPlus Standard - DEADLOCK
 8da9 Expert Standard - Slavik Goblins
 1305e ExpertPlus Standard - theyaremanycolors
 9c73 ExpertPlus Standard - Speed=Good
+7824 ExpertPlus Standard - Coward Killing Time
