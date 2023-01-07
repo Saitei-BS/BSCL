@@ -35,3 +35,6 @@ b4ea ExpertPlus Standard - Extra Freeze
 15087 ExpertPlus Standard - r e m e m b e r m e
 13645 ExpertPlus Standard - Starsiege
 15b74 ExpertPlus Standard - Ultima Weapon
+11536 ExpertPlus Standard - Circles!
+a4df Expert Standard - Depressed Mind
+8a45 Hard Standard - End Time
