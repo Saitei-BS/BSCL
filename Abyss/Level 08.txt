@@ -12,5 +12,4 @@ bddb ExpertPlus Standard - DEADLOCK
 f10b Easy Standard - Reanimate
 54b3 ExpertPlus Standard - Glucagon
 12573 Expert Standard - Armageddon
-17e95 ExpertPlus Standard - GuNGNiR
 121b0 ExpertPlus Standard - Release the Kraken
