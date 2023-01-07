@@ -18,3 +18,4 @@ f10b Easy Standard - Reanimate
 721f ExpertPlus Standard - Smile Skill = Suki Skill!
 e376 ExpertPlus Standard - Scattered Faith
 26e22 ExpertPlus Standard - morbius
+af39 ExpertPlus Standard - Razorblade Meltdown
