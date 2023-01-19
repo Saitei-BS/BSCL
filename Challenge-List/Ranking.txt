@@ -1,14 +1,27 @@
 2a07c ExpertPlus Standard Ranking - dumfound ed
 24aea ExpertPlus Standard Ranking - Dimension
 
+265dc ExpertPlus Standard Ranking - Fall Damage
+28f68 ExpertPlus Standard Graveyard - screamin' showcase
+26b9c Expert Standard Ranking - Stereo Love
+275cb ExpertPlus Standard Ranking - Stars Can't Shine
+248aa ExpertPlus Standard Graveyard - You Are Eating My Rotten Dick
+2918c ExpertPlus Standard Ranking - RTX 20,000
+23907 ExpertPlus Standard Ranking - Soil the Stillborn
+1c1af ExpertPlus Standard Ranking - Windows 10,000
+1e093 Expert Standard Ranking - To Another Place
 28dca ExpertPlus Standard Graveyard - Brain Specialist
 24978 ExpertPlus Standard Abyss - Necrophagiatoast
+21753 ExpertPlus Standard Graveyard - Destruction Armageddon
 24d30 ExpertPlus Standard Abyss - Coward Killing Time
 278bd ExpertPlus Standard Ranking - Catch Me
 1671d ExpertPlus Standard Ranking - Triumphal Return
 14cef ExpertPlus Standard Ranking - Saint's Stamina Challenge
+11cd6 ExpertPlus Standard Abyss - The Empress
 2a243 ExpertPlus Standard Ranking - aquarium
 2110a ExpertPlus Standard Ranking - Wonder Parade
+1d00a ExpertPlus Standard Abyss - Red Acid
+13b0e ExpertPlus Standard Ranking - War Song Orugurariya
 2aa7a Expert Standard Abyss - Sleepy Eyes Again
 2b1ee ExpertPlus Standard Abyss - pissed
 176e7 Expert Standard Abyss - Hop Step Adventure
@@ -22,10 +35,12 @@
 255a6 ExpertPlus Standard Ranking - C O N T I N U E ? ? ?
 11b86 ExpertPlus Standard Ranking - Sayonara Planet Wars
 2080c ExpertPlus Standard Abyss - Serbian Fuckboy Edition
+29b3a Expert Standard Graveyard - Deathblow
 b18f ExpertPlus Standard Abyss - I Got No Time
 287e6 ExpertPlus Standard Graveyard - Dripeesha
 13edf ExpertPlus Standard Ranking - Naked Malediction
 b356 ExpertPlus Standard Abyss - Ultimate Walto Challenge
+14b49 ExpertPlus Standard Graveyard - Count Down 321 v2
 18ad4 ExpertPlus Standard Abyss - Louder Machine
 16454 ExpertPlus Standard Abyss - Heartless Angel
 97c8 ExpertPlus Standard Abyss - Replay but its Scattered Faith [6 Lane]
@@ -33,6 +48,7 @@ b356 ExpertPlus Standard Abyss - Ultimate Walto Challenge
 1cbca Expert Standard Abyss - Ill
 1d289 ExpertPlus Standard Ranking - Extratone is Your Destiny
 1d9f0 ExpertPlus Standard Graveyard - Lost My Mind
+17863 ExpertPlus Standard Ranking - Exit This Earth's Atomosphere v2
 138c1 ExpertPlus Standard Graveyard - Good Old Extratone West
 24fd1 ExpertPlus Standard Ranking - BASH MY HEAD
 16eaa ExpertPlus Standard Ranking - Nhelv
