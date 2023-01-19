@@ -27,3 +27,4 @@ a281 ExpertPlus Standard - Sakurairo Time Capsule
 21f91 ExpertPlus Standard - Fisher Price
 19e99 ExpertPlus Standard - Frost Moon
 1f9ab ExpertPlus Standard - Goodbye Moonmen
+2e5f6 ExpertPlus Standard - Exit This Earth's Atomosphere v1 Remap
