@@ -19,3 +19,6 @@ e2af Easy standard - 3.14 (TT mix)
 16e93 ExpertPlus Standard - Rainbow Freeze
 2b12a ExoertPlus Standard - """""""""""""""""""""""""""""""""""""""""""""""""""""""
 2e0b5 ExpertPlus Standard - Inception
+258b7 Expert Standard - Scavenging Anisakis
+25581 ExpertPlus Standard - 3.14 (TT mix) 
+25c17 ExoertPlus Standard - Oreo
