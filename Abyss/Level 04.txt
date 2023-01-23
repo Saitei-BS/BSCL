@@ -12,4 +12,4 @@ c08a ExpertPlus Standard - Sakura Fubuki
 6c5d ExpertPlus Standard - Etude Op.10 No.5 'Black Keys' REMIX
 1e17 ExpertPlus Standard - Terminal Missa
 20788 ExpertPlus Standard - Crazy Bus
-5f34 ExpertPlus Standard - Pure Ruby
+
