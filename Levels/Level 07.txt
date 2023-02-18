@@ -30,3 +30,4 @@ e077 ExpertPlus Standard - Rainbow Freeze
 1ffa0 ExpertPlus Standard - LOSER!
 1f8c4 ExpertPlus Standard - BLEGH!
 12c81 Normal Standard - Shinsekai
+29441 ExpertPlus Standard - Terminal Missa
