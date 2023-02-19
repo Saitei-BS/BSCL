@@ -3,7 +3,6 @@
 95d7 Hard Standard - Evacuate the Moshpit
 14c0 ExpertPlus Standard - The Deepest Ocean
 1d5d8 ExpertPlus Standard - Winter Death
-19753 ExpertPlus Standard - Broken Diamonds
 1a149 ExpertPlus Standard - Archangel
 1ee97 ExpertPlus Standard - XRONIER
 18bd9 ExpertPlus Standard - Speed x Core
