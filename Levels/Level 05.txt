@@ -22,3 +22,4 @@ a59c ExpertPlus Standard - Grow (1.25x)
 2e55f ExpertPlus Standard - Jelly Donuts
 2a8f7 Normal Standard - Doraemon 
 2a7ef Easy Standard - Black Apple
+8331 ExpertPlus Standard - Vibroverkill (1.2x)
